@@ -1,4 +1,4 @@
-#$Product $Feature — Exploratory Charter
+# $Product $Feature — Exploratory Charter
 
 * **App** — Name
 * **Branch** — BRANCH
@@ -6,7 +6,7 @@
 * **Feature** — <FEATURE>
 * **Time** — Timebox session and date
   
-##Focus Statement
+## Focus Statement
 
 > Examine **area**, **feature**, **thing** with **resources**, **constraints**, **tools**, **etc**. to discover **information**, **defects**, **errata**, **etc**
 
