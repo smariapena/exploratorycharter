@@ -58,7 +58,7 @@
 - here
 - to inform you testing
 
-#Log & Findings
+## Log & Findings
 **Loose format, Thing I tried, the result of the thing I tried**
 
 - here is your notes as you test
